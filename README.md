@@ -22,4 +22,8 @@ python3 main.py
 python main.py
 ```
 
-**Referência:** https://www.youtube.com/watch?v=pNBjC32nisg&ab_channel=DevAprender
+**Referência:** 
+
+* https://pyautogui.readthedocs.io/en/latest/keyboard.html
+
+* https://www.youtube.com/watch?v=pNBjC32nisg&ab_channel=DevAprender
